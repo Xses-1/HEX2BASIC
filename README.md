@@ -1,4 +1,4 @@
-# HEX2BASIC
+# HEX2BASIC for Commodore 64
 
 
 This simple program allows you to convert HEX file into Commodore 64 Basic file with poke commands that put the programm written in hex into C64's memory.
